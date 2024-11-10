@@ -3,7 +3,7 @@
 
 Create a professional and impactful resume that stands out to both recruiters and Applicant Tracking Systems (ATS). Follow these steps to build a resume that increases your chances of landing job opportunities.
 
----
+<br/> 
 
 ## 🌟 Key Steps for ATS-Friendly Resumes
 
@@ -22,7 +22,7 @@ Create a professional and impactful resume that stands out to both recruiters an
 5. **Check Your Email Regularly**  
    Stay updated on job-related communications to avoid missing interview calls or other important messages.
 
-<br/> <br/>
+<br/> 
 
 ## 🎨 How a Standout Resume Should Look
 
@@ -74,7 +74,7 @@ Create a professional and impactful resume that stands out to both recruiters an
 ### 5. Check Your Email Frequently
    - **Explanation**: Recruiters may contact you via email, so be vigilant to avoid missing any important updates.
 
-<br/> <br/>
+<br/>
 
 ## 🧩 Structure of an Effective Resume
 
@@ -119,6 +119,8 @@ Create a professional and impactful resume that stands out to both recruiters an
 <br/> <br/>
 
 > 🌟 **Star this repo for future reference, and follow @[sisi_tarak] for more tips!**
+
+<br/> <br/>
 
 
 
